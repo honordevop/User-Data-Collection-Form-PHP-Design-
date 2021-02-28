@@ -16,7 +16,7 @@
         <b><p>
             Ensure your enter your data correctly because once submitted, you can't edit it.
         </p></b>
-        <form action="general.php" method="post">
+        <form action="user_data_form.php" method="post">
             <div>
                 <label for="fullname">Full Name: </label><input type="text" class="nameinput" name="fullname" >
             </div>

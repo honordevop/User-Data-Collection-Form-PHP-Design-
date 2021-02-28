@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, p {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-left: 1em;
+    color: green;
+    
+}
+main{
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+
+input{
+    margin: 1em 0 1em 0;
+    
+}
+label{
+    
+    font-weight: bold;
+}
+.nameinput{
+    margin-left: 10em;
+}
+.ageinput{
+    margin-left: 13.2em;
+}
+.occinput{
+    margin-left: 9.3em;
+}
+.Mstatusinput{
+    margin-left: 8em;
+}
+.skillinput{
+    margin-left: 3em;
+}
+
